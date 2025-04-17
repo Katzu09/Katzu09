@@ -1,6 +1,6 @@
 # Hey there, I'm **Katzu**
 
-> *"Code like a rebel, learn like a nerd."*
+> *"I don't code because I can, I code because I'm curious — and I keep learning until I can."*
 
 ---
 
@@ -29,10 +29,17 @@
 ---
 
 ## ⚡ A Bit About Me
-```ts
+```pawn
 const katzu = {
   name: "Katzu",
-  vibe: "chill",
-  loves: ["Late at night", "Experiment", "Open.MP/SA-MP],
-  motto: "Keep failing forward."
+  vibe: "chill as hell",
+  passions: [
+    "experimenting with random ideas",
+    "breaking stuff just to fix it",
+    "building chaos in Open.MP / SA-MP",
+    "late-night debugging with lo-fi beats"
+  ],
+  currentlyLearning: "how to sleep early (failing)",
+  motto: "Keep failing forward — that's how legends are made.",
+  status: "online but mentally afk"
 };
